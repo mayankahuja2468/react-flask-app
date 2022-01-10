@@ -1,0 +1,70 @@
+.float-container {
+  display: flex;
+  
+  background-color:    peachpuff;
+}
+
+.float-child {
+
+  flex: 1;
+
+
+}
+input[type="text"]{
+  background-color: white;
+}
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+   
+    background-repeat: no-repeat;
+    border-radius: 5px;
+
+    width: 200px;
+    height: 40px;
+  }
+
+.fmlc{
+    width: 100%;
+
+    
+ 
+
+}
+.cardlc {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: papayawhip;
+  width: 20%;
+  
+}
+
+.cardlc:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.containerlc {
+ text-align: center;
+}
+.flex-containe {
+  display: flex;
+  background-color:    peachpuff;
+  
+}
+
+.flex-containe > div {
+  background-color: papayawhip;
+  margin-left: 130px;
+ 
+
+}
+
